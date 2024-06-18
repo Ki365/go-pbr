@@ -17,3 +17,6 @@ profile.*
 /mario
 /hello
 /.vscode
+
+## PBR CLI Exclusions
+pbr.exe
